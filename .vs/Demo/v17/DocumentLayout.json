@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\repo\\implementation\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\repo\\implementation\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\repo\\abstraction\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\repo\\abstraction\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\unit o\u0027 work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\unit o\u0027 work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\unit o\u0027 work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\unit o\u0027 work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\repo\\abstraction\\ivehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\repo\\abstraction\\ivehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\repo\\implementation\\vehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\repo\\implementation\\vehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\dtos\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\repo\\abstraction\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\repo\\abstraction\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Migrations\\20261001101451_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20261001101451_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|c:\\users\\yassen.ashraf\\source\\repos\\demo\\demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC82CD-D41D-46BA-AEC4-597E5F725AF0}|Demo\\Demo.csproj|solutionrelative:demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Demo\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Demo\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:43:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Implementation\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Demo\\Repo\\Implementation\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Implementation\\CategoryRepo.cs",
+              "RelativeToolTip": "Demo\\Repo\\Implementation\\CategoryRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:37:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Abstraction\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "Demo\\Repo\\Abstraction\\ICategoryRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Abstraction\\ICategoryRepo.cs",
+              "RelativeToolTip": "Demo\\Repo\\Abstraction\\ICategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:36:36.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:28:53.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:13:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Unit o\u0027 Work\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo\\Unit o\u0027 Work\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Unit o\u0027 Work\\UnitOfWork.cs",
+              "RelativeToolTip": "Demo\\Unit o\u0027 Work\\UnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:38:17.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Category.cs",
+              "RelativeToolTip": "Demo\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T08:58:39.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Unit o\u0027 Work\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo\\Unit o\u0027 Work\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Unit o\u0027 Work\\IUnitOfWork.cs",
+              "RelativeToolTip": "Demo\\Unit o\u0027 Work\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:36:20.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Demo\\Dtos\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\CreateCategoryDto.cs",
+              "RelativeToolTip": "Demo\\Dtos\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:30:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Implementation\\VehicleRepo.cs",
+              "RelativeDocumentMoniker": "Demo\\Repo\\Implementation\\VehicleRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Implementation\\VehicleRepo.cs",
+              "RelativeToolTip": "Demo\\Repo\\Implementation\\VehicleRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:00:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\UpdateVehicleDto.cs",
+              "RelativeDocumentMoniker": "Demo\\Dtos\\UpdateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\UpdateVehicleDto.cs",
+              "RelativeToolTip": "Demo\\Dtos\\UpdateVehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:14:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwG8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:47:11.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "Demo\\Dtos\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\VehicleDto.cs",
+              "RelativeToolTip": "Demo\\Dtos\\VehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:06:52.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Demo\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:00:09.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Demo\\Repo\\Implementation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "Demo\\Repo\\Implementation\\GenericRepo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:28:41.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVehicleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Abstraction\\IVehicleRepo.cs",
+              "RelativeDocumentMoniker": "Demo\\Repo\\Abstraction\\IVehicleRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Abstraction\\IVehicleRepo.cs",
+              "RelativeToolTip": "Demo\\Repo\\Abstraction\\IVehicleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:59:04.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\CreateVehicleDto.cs",
+              "RelativeDocumentMoniker": "Demo\\Dtos\\CreateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Dtos\\CreateVehicleDto.cs",
+              "RelativeToolTip": "Demo\\Dtos\\CreateVehicleDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:49:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:45:22.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Abstraction\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Demo\\Repo\\Abstraction\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Repo\\Abstraction\\IGenericRepo.cs",
+              "RelativeToolTip": "Demo\\Repo\\Abstraction\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:16:58.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20261001101451_init.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Migrations\\20261001101451_init.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20261001101451_init.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Migrations\\20261001101451_init.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20261001101451_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:14:51.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\appsettings.json",
+              "RelativeToolTip": "Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T10:11:48.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Demo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Demo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAqwMMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:22:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Sale.cs",
+              "RelativeToolTip": "Demo\\Models\\Sale.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:15:40.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Employee.cs",
+              "RelativeToolTip": "Demo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:13:29.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\CustomerProfile.cs",
+              "RelativeToolTip": "Demo\\Models\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:11:13.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\Demo\\Demo\\Models\\Customer.cs",
+              "RelativeToolTip": "Demo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:08:07.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
